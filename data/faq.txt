@@ -1,0 +1,34 @@
+GreenLeaf Bistro — Customer Experience FAQ
+
+Q: What are your most popular menu items?
+A: Our top sellers are the Avocado Toast, Garden Bowl, and Cold Brew Coffee. The Avocado Toast alone accounts for close to 20% of all morning orders. Seasonal items rotate every quarter, and past customer favorites include the Roasted Beet Salad and the Spiced Pumpkin Latte.
+
+Q: What is your average wait time?
+A: We target under 10 minutes for counter orders during off-peak hours. Peak hours, which run from 12 PM to 1 PM and again from 6 PM to 8 PM, may see wait times of 15 to 20 minutes. Mobile orders placed through the app usually skip the line and are ready within 8 minutes regardless of how busy the store is.
+
+Q: How do you handle complaints?
+A: All complaints are escalated to the shift manager within 15 minutes of being raised. Refunds or replacements are offered for any quality issues, including cold food, incorrect orders, or long unexpected delays. Serious complaints, such as repeated poor service at one location, are also logged for the regional operations team to review weekly.
+
+Q: What is your CSAT target?
+A: We aim for a CSAT (customer satisfaction) score of 4.5 or higher, measured on a 5-point rating scale from our post-visit survey. Any location scoring below 4.0 in a given week automatically triggers a root-cause review with the operations team, covering staffing levels, food quality checks, and wait time logs for that period.
+
+Q: How often do you review customer feedback?
+A: Store-level feedback is reviewed weekly by shift managers, and company-wide trends are reviewed monthly by the operations and product teams. Any theme that shows up in more than 10% of negative reviews in a single week is flagged for immediate follow-up, rather than waiting for the monthly review.
+
+Q: What staffing standards do you follow?
+A: Each location is expected to have at least one team member trained specifically in customer recovery, meaning they are authorized to offer refunds or replacements on the spot without needing manager approval. New staff go through a two-week training period that covers order accuracy, food safety, and basic customer service scripts.
+
+Q: How do you handle cleanliness standards?
+A: All locations follow a cleaning checklist that is completed at the start of each shift, at midday, and at closing. Restrooms are checked hourly during business hours. Any cleanliness complaint results in an unscheduled inspection within 48 hours.
+
+Q: Do you offer loyalty or membership programs?
+A: Yes, our loyalty app offers a stamp-based rewards system where customers earn a free drink after every ten purchases. Members also get early access to seasonal menu items and receive a birthday reward each year.
+
+Q: What channels can customers use to give feedback?
+A: Customers can leave feedback through the mobile app right after checkout, through a printed QR code receipt for in-store purchases, or by email if they contacted support directly. All three channels feed into the same survey system so feedback is tracked consistently no matter how it was submitted.
+
+Q: How do you decide when to open a new location?
+A: New locations are considered when an existing nearby store consistently exceeds its target wait times during peak hours for more than four consecutive weeks, or when customer demand surveys in an area show strong interest. Site selection also factors in foot traffic, nearby competition, and lease costs.
+
+Q: What is your policy on refunds versus replacements?
+A: For food quality issues, customers are offered a free replacement first. If a replacement is not appealing to the customer, or if the same order has failed twice, a full refund is issued instead. Refunds for mobile orders are processed back to the original payment method within 3 to 5 business days.

@@ -1,0 +1,16 @@
+# virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# generated at runtime, no need to commit
+vector_store/
